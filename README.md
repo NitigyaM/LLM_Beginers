@@ -8,6 +8,7 @@ Welcome to the **LLM Simple Projects for Beginners** repository! This repository
 - [Installation](#installation)
 - [Projects](#projects)
 - [Usage](#usage)
+- [Knowledge Bank](#Knowledge Bank)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -22,7 +23,7 @@ To get started, you'll need to install the necessary dependencies. You can do th
 ```bash
 pip install replicate
 
-Usage
+## Usage
 Clone the repository:
 bash
 Copy code
@@ -34,8 +35,11 @@ Copy code
 python your_project_file.py
 Replace your_project_file.py with the name of the Python file you want to run.
 
-Contributing
+## Knowlwdge Bank
+
+
+## Contributing
 We welcome contributions! If you have a project that you think fits well with the goals of this repository, feel free to submit a pull request. Please make sure your code is well-documented and follows the existing style of the repository.
 
-License
+## License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
