@@ -8,7 +8,7 @@ Welcome to the **LLM Simple Projects for Beginners** repository! This repository
 - [Installation](#installation)
 - [Projects](#projects)
 - [Usage](#usage)
-- [Knowledge Bank](#Knowledge Bank)
+- [Knowledge Bank](#knowledge)
 - [Contributing](#contributing)
 - [License](#license)
 
