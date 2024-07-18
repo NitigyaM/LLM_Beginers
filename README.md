@@ -22,21 +22,23 @@ To get started, you'll need to install the necessary dependencies. You can do th
 
 ```bash
 pip install replicate
+```
 
 ## Usage
 Clone the repository:
-bash
-Copy code
+```bash
 git clone https://github.com/yourusername/LLM-Simple-Projects.git
 cd LLM-Simple-Projects
+```
+
 Run the project:
-bash
-Copy code
+```bash
 python your_project_file.py
+```
 Replace your_project_file.py with the name of the Python file you want to run.
 
 ## Knowlwdge Bank
-
+https://medium.com/@1511425435311/understanding-openais-temperature-and-top-p-parameters-in-language-models-d2066504684f
 
 ## Contributing
 We welcome contributions! If you have a project that you think fits well with the goals of this repository, feel free to submit a pull request. Please make sure your code is well-documented and follows the existing style of the repository.
